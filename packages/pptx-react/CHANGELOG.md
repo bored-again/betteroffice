@@ -1,5 +1,17 @@
 # @betteroffice/pptx-react
 
+## 0.6.2
+
+### Patch Changes
+
+- 08094a4: PowerPoint editors load Chinese, Japanese, and Korean fonts in slices by default in Chromium and Firefox with worker rendering, and use whole fonts in other browsers. If slices fail, browser fallback keeps text visible.
+- 01cd2da: The outline around a text box being edited is now a thin solid line instead of a thick dashed one.
+- Updated dependencies [e163044]
+- Updated dependencies [08094a4]
+  - @betteroffice/pptx@0.6.2
+  - @betteroffice/fonts@0.5.1
+  - @betteroffice/pptx-i18n@0.6.2
+
 ## 0.6.1
 
 ### Patch Changes

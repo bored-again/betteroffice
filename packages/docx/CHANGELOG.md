@@ -1,5 +1,12 @@
 # @betteroffice/docx
 
+## 0.6.2
+
+### Patch Changes
+
+- Updated dependencies [e163044]
+  - @betteroffice/fonts@0.5.1
+
 ## 0.6.1
 
 ## 0.6.0

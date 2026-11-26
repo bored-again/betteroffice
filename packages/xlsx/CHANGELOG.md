@@ -1,5 +1,13 @@
 # @betteroffice/xlsx
 
+## 0.6.2
+
+### Patch Changes
+
+- 372e1e3: Printed sheets keep their stored row heights when the default row height is below the font's natural height, so they paginate closer to Excel.
+- Updated dependencies [e163044]
+  - @betteroffice/fonts@0.5.1
+
 ## 0.6.1
 
 ## 0.6.0

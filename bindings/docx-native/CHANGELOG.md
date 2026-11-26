@@ -1,5 +1,17 @@
 # @betteroffice/docx-native
 
+## 0.6.2
+
+### Patch Changes
+
+- 8475b31: The Linux GNU binaries load again on glibc 2.17 and newer on both supported architectures.
+- a42798b: Documents saved on Windows are now byte-identical to the same documents saved on Linux and macOS. Saved content does not change.
+- Updated dependencies [e163044]
+  - @betteroffice/fonts@0.5.1
+  - @betteroffice/fonts-cjk@0.5.1
+  - @betteroffice/fonts-intl@0.5.1
+  - @betteroffice/fonts-latin@0.5.1
+
 ## 0.6.1
 
 ### Patch Changes

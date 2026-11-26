@@ -1,5 +1,15 @@
 # @betteroffice/xlsx-react
 
+## 0.6.2
+
+### Patch Changes
+
+- Updated dependencies [e163044]
+- Updated dependencies [372e1e3]
+  - @betteroffice/fonts@0.5.1
+  - @betteroffice/xlsx@0.6.2
+  - @betteroffice/xlsx-i18n@0.6.2
+
 ## 0.6.1
 
 ### Patch Changes

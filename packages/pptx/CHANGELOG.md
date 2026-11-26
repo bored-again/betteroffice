@@ -1,5 +1,14 @@
 # @betteroffice/pptx
 
+## 0.6.2
+
+### Patch Changes
+
+- e163044: The presentation editor loads fallback fonts for scripts like Hebrew, Thai and Devanagari, using the same faces as PNG export. When a font pack is unavailable, it warns once and skips repeated downloads.
+- 08094a4: PowerPoint editors load Chinese, Japanese, and Korean fonts in slices by default in Chromium and Firefox with worker rendering, and use whole fonts in other browsers. If slices fail, browser fallback keeps text visible.
+- Updated dependencies [e163044]
+  - @betteroffice/fonts@0.5.1
+
 ## 0.6.1
 
 ## 0.6.0

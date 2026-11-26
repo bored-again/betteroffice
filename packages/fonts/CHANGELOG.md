@@ -1,5 +1,12 @@
 # @betteroffice/fonts
 
+## 0.5.1
+
+### Patch Changes
+
+- e163044: The presentation editor loads fallback fonts for scripts like Hebrew, Thai and Devanagari, using the same faces as PNG export. When a font pack is unavailable, it warns once and skips repeated downloads.
+  - @betteroffice/fonts-latin@0.5.1
+
 ## 0.5.0
 
 ### Minor Changes

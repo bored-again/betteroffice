@@ -1,5 +1,24 @@
 # @betteroffice/demo
 
+## 0.0.20
+
+### Patch Changes
+
+- Updated dependencies [e163044]
+- Updated dependencies [08094a4]
+- Updated dependencies [01cd2da]
+- Updated dependencies [372e1e3]
+  - @betteroffice/pptx@0.6.2
+  - @betteroffice/fonts@0.5.1
+  - @betteroffice/pptx-react@0.6.2
+  - @betteroffice/xlsx@0.6.2
+  - @betteroffice/xlsx-react@0.6.2
+  - @betteroffice/docx@0.6.2
+  - @betteroffice/docx-react@0.6.2
+  - @betteroffice/fonts-cjk@0.5.1
+  - @betteroffice/fonts-intl@0.5.1
+  - @betteroffice/fonts-latin@0.5.1
+
 ## 0.0.19
 
 ### Patch Changes

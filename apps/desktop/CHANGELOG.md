@@ -1,5 +1,27 @@
 # @betteroffice/desktop
 
+## 0.1.12
+
+### Patch Changes
+
+- Updated dependencies [e163044]
+- Updated dependencies [08094a4]
+- Updated dependencies [01cd2da]
+- Updated dependencies [372e1e3]
+  - @betteroffice/pptx@0.6.2
+  - @betteroffice/fonts@0.5.1
+  - @betteroffice/pptx-react@0.6.2
+  - @betteroffice/xlsx@0.6.2
+  - @betteroffice/xlsx-react@0.6.2
+  - @betteroffice/docx@0.6.2
+  - @betteroffice/docx-react@0.6.2
+  - @betteroffice/docx-i18n@0.6.2
+  - @betteroffice/xlsx-i18n@0.6.2
+  - @betteroffice/pptx-i18n@0.6.2
+  - @betteroffice/fonts-cjk@0.5.1
+  - @betteroffice/fonts-intl@0.5.1
+  - @betteroffice/fonts-latin@0.5.1
+
 ## 0.1.11
 
 ### Patch Changes
